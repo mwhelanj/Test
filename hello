@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 change file second
+=======
+change file second
+>>>>>>> fafd0baf9302cbf221f16bdfda2fac4db0db868c
